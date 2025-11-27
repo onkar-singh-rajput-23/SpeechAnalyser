@@ -108,3 +108,13 @@ Potential future features include:
 
 - Adding IOS 26+ SpeechAnalyzer to correct and anlyse the sentences PDF correction.
 - Enhanced real time Spech recognition UI 
+## Edge Case to Enhance 
+- There is a gap between speaking the sentences, which needs to be enhanced so that it does not break the transcript. I worked on it, but it is not very good.
+- To edit the transcript, we need to go into edit mode. This needs enhancement so that we can speak and edit simultaneously.
+
+
+## Tests:
+- tested for Notification Handling
+- Language support 
+- Tested Saving, updation, deletion, creation
+
